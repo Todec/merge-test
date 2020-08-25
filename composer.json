@@ -5,8 +5,7 @@
     "keywords": [
         "framework",
         "laravel"
-    ],
-    "license": "MIT",
+    ], 
     
     "require-dev": {
         "facade/ignition": "^2.0",
